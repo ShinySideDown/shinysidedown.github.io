@@ -6,7 +6,7 @@ title: First Aid
 
 ## Burns
 
-* [Burn Types](../assets/BurnChart.pdf)
+* [Burn Types & Treatments](../assets/BurnChart.pdf)
 * [Burn Treatment Guidelines](../assets/Burns.pdf)
 
 ## Hypothermia
