@@ -1,3 +1,8 @@
+---
+title: Hypothermia
+layout: default
+---
+
 # Hypothermia
 
 Hypothermia is a condition in which an organism's temperature drops below that required for normal metabolism and bodily functions. In warm-blooded animals, core body temperature is maintained near a constant level through biologic homeostasis. But, when the body is exposed to cold, its internal mechanisms may be unable to replenish the heat that is being lost to the organism's surroundings.
