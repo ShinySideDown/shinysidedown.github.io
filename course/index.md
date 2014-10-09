@@ -1,7 +1,6 @@
 ---
 title: First Responder Training For Motorcyclists Course Details
 ---
-
 # First Responder Training For Motorcyclists
 Brought to you by Shiny Side Down
 

@@ -1,6 +1,5 @@
 ---
 title: Hypothermia
-layout: default
 ---
 
 # Hypothermia

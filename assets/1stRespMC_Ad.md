@@ -7,7 +7,7 @@ Greetings,
 Wanted to let you know about a FREE upcoming class of interest to your members. First Responder Training for Motorcyclists Class, Sunday April 28 at San Diego BMW Motorcycles (free lunch, too!). If you can't make the class there is some helpful info at: www.shinysidedown.com
 
 
-======================== 
+---
 
 Jamie Edmonds, our avid motorcycle riding, licensed Paramedic, will once again be holding his wildly popular First Responder class for those wishing to learn with how to deal with the situation of a motorcycle accident. 
 
